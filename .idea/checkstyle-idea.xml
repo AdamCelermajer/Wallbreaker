@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>8.44</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath">
+      <option value="C:\Users\adam celermajer\IdeaProjects\checkstyle-8.44-all.jar" />
+      <option value="C:\Users\adam celermajer\IdeaProjects\checkstyle-8.44-all.jar" />
+    </option>
+    <option name="activeLocationIds">
+      <option value="db57a195-1247-4d14-9e86-07d2ca8016c9" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="db57a195-1247-4d14-9e86-07d2ca8016c9" type="LOCAL_FILE" scope="All" description="biu">
+          $PROJECT_DIR$/../biuoop.xml
+          <option name="properties">
+            <map>
+              <entry key="org.checkstyle.sun.suppressionfilter.config" value="" />
+              <entry key="org.checkstyle.sun.suppressionxpathfilter.config" value="" />
+            </map>
+          </option>
+        </ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
